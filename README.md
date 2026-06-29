@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-*DESCRIPTION*: AI CHATBOT WITH NLP
+*DESCRIPTION*: Task-3 AI Chatbot with NLP
 
 The objective of this task was to design and develop an AI Chatbot using Python and Natural Language Processing (NLP) techniques. The chatbot was created using the NLTK (Natural Language Toolkit) library, which provides essential tools for processing and understanding human language. The primary goal of the project was to build an interactive application capable of responding to user queries in a simple and conversational manner.
 The chatbot was implemented using predefined patterns and responses. User input is analyzed through pattern matching, and the program identifies the most suitable response based on the entered query. The chatbot can answer common questions such as greetings, information about Python, Artificial Intelligence (AI), Natural Language Processing (NLP), and other basic conversational topics. If a query does not match any predefined pattern, the chatbot politely informs the user that it does not understand the question and asks the user to try another query.
