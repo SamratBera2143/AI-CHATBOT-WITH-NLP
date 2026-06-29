@@ -22,4 +22,5 @@ The final deliverable of this task is a fully functional Python chatbot script t
 Overall, this internship task enhanced my programming skills, introduced me to the practical applications of NLP, and provided valuable hands-on experience in developing AI-based applications using Python.
 
 *OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ac599d28-3afd-499e-8b84-2a0d3e7d5fe9" />
 
